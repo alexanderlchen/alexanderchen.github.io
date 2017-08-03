@@ -1,0 +1,31 @@
+/*Heading 1*/ 
+h1{
+  color: rgb; 
+  font-family: ;
+  font-size: ;
+  line-height: ;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  } 
+  
+  /*body */ 
+  body{ 
+    padding: 0; 
+    margin: 0;
+    background:#f7f7f7
+    /* Old browsers */ 
+    background: -moz-linear-gradient (45deg, #f7f7f7 0%, #EAAE0D5 100%0; 
+    /*FF3.6-15*/ 
+    background: -webkit-linear-gradient (45deg, #f7f7f7 0%, #EAE0D5 100%); 
+    /*Chrome10-25, Safari5.1-6 */ 
+    background: lineargradient (45deg, #f7f7f7 0%, #EAE0D5 100%); 
+    }
+    
+  /* Paragraph */ 
+ p{
+ }
+ 
+ *{
+  font-family: 
+ }
